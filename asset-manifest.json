@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apple/static/css/main.bcdec4a9.css",
+    "main.js": "/apple/static/js/main.9a50cf5d.js",
+    "index.html": "/apple/index.html",
+    "main.bcdec4a9.css.map": "/apple/static/css/main.bcdec4a9.css.map",
+    "main.9a50cf5d.js.map": "/apple/static/js/main.9a50cf5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcdec4a9.css",
+    "static/js/main.9a50cf5d.js"
+  ]
+}
