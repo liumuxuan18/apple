@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/apple/static/css/main.8b51fc63.css",
+    "main.css": "/apple/static/css/main.bcdec4a9.css",
     "main.js": "/apple/static/js/main.9a50cf5d.js",
-    "static/media/searchBox-bg.jpg": "/apple/static/media/searchBox-bg.3a15128e0f82ce425f0a.jpg",
-    "static/media/img-news2.jpg": "/apple/static/media/img-news2.13b06c9e0c24244ec33f.jpg",
-    "static/media/img-news6.jpg": "/apple/static/media/img-news6.ed4fa445f8e82fbc1160.jpg",
-    "static/media/img-news3.jpg": "/apple/static/media/img-news3.64c7652a2ee6ac1fbab1.jpg",
-    "static/media/img-news4.jpg": "/apple/static/media/img-news4.17fe8e3482739ad0788a.jpg",
-    "static/media/img-news1.jpg": "/apple/static/media/img-news1.4ba9dad73d91bdbb6d81.jpg",
-    "static/media/img-news5.jpg": "/apple/static/media/img-news5.a3e7e580be147f277c83.jpg",
-    "static/media/contactUs-img.svg": "/apple/static/media/contactUs-img.aa6c5d5d003a4a363146.svg",
     "index.html": "/apple/index.html",
-    "main.8b51fc63.css.map": "/apple/static/css/main.8b51fc63.css.map",
+    "main.bcdec4a9.css.map": "/apple/static/css/main.bcdec4a9.css.map",
     "main.9a50cf5d.js.map": "/apple/static/js/main.9a50cf5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b51fc63.css",
+    "static/css/main.bcdec4a9.css",
     "static/js/main.9a50cf5d.js"
   ]
 }
